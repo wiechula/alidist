@@ -64,6 +64,7 @@ valid_defaults:
   - alo
   - o2-prod
   - o2-ninja
+  - jw
 ---
 #!/bin/sh
 export ROOTSYS=$ROOT_ROOT
